@@ -14,10 +14,19 @@ The player who succeeds in placing three of their marks in a horizontal, vertica
 
 In Breakout, a layer of bricks lines the top third of the screen and the goal is to destroy them all.
 
+## Dice
+
+![dice-demo](./README/dice-demo.png)
+
+A React SPA RNG Dice roller.
+
 ---
 
 ## Technologies & Frameworks
 
-- [HTML]()
-- [CSS]()
-- [Javascript]()
+- [Create-React-App](https://reactjs.org/docs/create-a-new-react-app.html)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [React](https://reactjs.org/)
+
